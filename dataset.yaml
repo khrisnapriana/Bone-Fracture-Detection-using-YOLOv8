@@ -1,0 +1,7 @@
+
+path: D:\Document\Viskom\Projek UAS\FrakturTulang
+train: train\images
+val: valid\images
+
+nc: 1
+names: ['Fracture']
